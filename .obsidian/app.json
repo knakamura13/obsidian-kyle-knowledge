@@ -4,5 +4,7 @@
   "promptDelete": false,
   "vimMode": false,
   "attachmentFolderPath": "Attachments",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "current"
 }
