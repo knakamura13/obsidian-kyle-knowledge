@@ -1,33 +1,29 @@
 {
   "main": {
-    "id": "7a34c0d187a3c5cb",
+    "id": "81a739421cf4f9c6",
     "type": "split",
     "children": [
       {
-        "id": "4507a7e60563a188",
+        "id": "bfc2eb489f47d759",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Food/Tier Lists/Grocery/Grocery.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c51d456e1f8cf780",
+    "id": "30e5879f77899ecc",
     "type": "split",
     "children": [
       {
-        "id": "97697d21381c97a2",
+        "id": "1e2be97ec9f2172c",
         "type": "tabs",
         "children": [
           {
-            "id": "170916684d6593ce",
+            "id": "2d78c26a7ae2d4a8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +31,7 @@
             }
           },
           {
-            "id": "13fd10c7073c7018",
+            "id": "3ba3a5c47bf920c8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -53,23 +49,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 627
+    "width": 300
   },
   "right": {
-    "id": "b0301cfc5cc925dd",
+    "id": "5776f5f69cb35321",
     "type": "split",
     "children": [
       {
-        "id": "330edef3d50c80f2",
+        "id": "5b212bc30b4d74f1",
         "type": "tabs",
         "children": [
           {
-            "id": "0508cc85eaec66e8",
+            "id": "fff8f1fa84878491",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Food/Tier Lists/Grocery/Grocery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,19 +79,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "4507a7e60563a188",
-  "lastOpenFiles": [
-    "Food/Tier Lists/Grocery/Grocery.md",
-    "Development/Development.md",
-    "Food/Tier Lists/Grocery/Frozen Chicken Nuggets.md",
-    "Food/Tier Lists/Grocery/Ceasar Dressing.md",
-    "Development/Git.md",
-    "Food/Tier Lists/Grocery/Frozen Chicken Wings.md",
-    "Food/Tier Lists/Grocery/Frozen Lasagna.md",
-    "Food/Tier Lists/Grocery/Frozen Pizza.md",
-    "Food/Tier Lists/Grocery/Guacamole.md",
-    "Food/Tier Lists/Grocery/Hummus.md"
-  ]
+  "active": "bfc2eb489f47d759",
+  "lastOpenFiles": []
 }
