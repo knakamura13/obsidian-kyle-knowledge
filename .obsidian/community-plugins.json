@@ -8,5 +8,9 @@
   "obsidian-text-format",
   "obsidian-filename-heading-sync",
   "obsidian-linter",
-  "obsidian-git"
+  "obsidian-git",
+  "url-into-selection",
+  "tag-wrangler",
+  "convert-url-to-iframe",
+  "obsidian-local-images"
 ]
