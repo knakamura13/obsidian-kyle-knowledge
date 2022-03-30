@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Food/Tier Lists/Grocery/Ceasar Dressing.md",
+            "file": "Food/Tier Lists/Grocery/Grocery.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Food/Tier Lists/Grocery/Ceasar Dressing.md",
+                "file": "Food/Tier Lists/Grocery/Grocery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "4507a7e60563a188",
   "lastOpenFiles": [
-    "Food/Tier Lists/Grocery/Ceasar Dressing.md",
+    "Food/Tier Lists/Grocery/Grocery.md",
+    "Development/Development.md",
     "Food/Tier Lists/Grocery/Frozen Chicken Nuggets.md",
+    "Food/Tier Lists/Grocery/Ceasar Dressing.md",
+    "Development/Git.md",
     "Food/Tier Lists/Grocery/Frozen Chicken Wings.md",
     "Food/Tier Lists/Grocery/Frozen Lasagna.md",
     "Food/Tier Lists/Grocery/Frozen Pizza.md",
     "Food/Tier Lists/Grocery/Guacamole.md",
-    "Food/Tier Lists/Grocery/Hummus.md",
-    "Food/Tier Lists/Grocery/Ranch Tortilla Chips.md",
-    "Food/Tier Lists/Grocery/Salsa.md",
-    "Food/Tier Lists/Grocery/Tortilla Chips.md"
+    "Food/Tier Lists/Grocery/Hummus.md"
   ]
 }

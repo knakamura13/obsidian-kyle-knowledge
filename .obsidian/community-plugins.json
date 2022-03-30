@@ -12,5 +12,6 @@
   "url-into-selection",
   "tag-wrangler",
   "convert-url-to-iframe",
-  "obsidian-local-images"
+  "obsidian-local-images",
+  "folder-note-plugin"
 ]
