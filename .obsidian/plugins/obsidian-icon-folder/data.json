@@ -5,9 +5,10 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FabReadme",
+      "FasGraduationCap",
+      "RiTerminalBoxFill",
       "FasBurger",
-      "RiTerminalBoxFill"
+      "FabReadme"
     ],
     "recentlyUsedIconsSize": 5,
     "extraPadding": {
@@ -19,5 +20,6 @@
   },
   "Food": "FasBurger",
   "Development": "RiTerminalBoxFill",
-  "README.md": "FabReadme"
+  "README.md": "FabReadme",
+  "OMSCS": "FasGraduationCap"
 }
