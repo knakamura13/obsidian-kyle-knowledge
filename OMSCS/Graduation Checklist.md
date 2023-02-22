@@ -6,12 +6,12 @@
 		- [ ] ML
 	- Elective Courses
 		- [x] CV
-		- [x] ML4T
-		- [ ] AI Ethics
+		- [ ] ML4T (in progress)
+		- [x] AI Ethics
 - General Education
 	- [x] GIOS
 	- [x] IIS
 - General Courses
 	- [x] CN
 	- [x] CP
-	- [ ] SDP
+	- [x] HCI
